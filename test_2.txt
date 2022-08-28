@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test2
 hello
 hiiii
+=======
+test222
+>>>>>>> main
